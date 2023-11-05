@@ -17,4 +17,6 @@ Topics Learned:
 * Exporting Datasets
 * Combining SQL & Tableau
 
-![SQL certificate](SQL Certificate 9.26.23.jpeg)
+<p align="left">
+  <img src="SQL_Certificate_9.26.23.jpeg" width="800" title="hover text">
+</p>
