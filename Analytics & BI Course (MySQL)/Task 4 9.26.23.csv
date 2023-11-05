@@ -1,0 +1,19 @@
+dept_name,gender,average_salary
+"Customer Service",M,62957.63
+"Customer Service",F,62343.95
+Development,M,62924.43
+Development,F,61963.68
+Finance,M,67982.07
+Finance,F,67420.69
+"Human Resources",M,60190.38
+"Human Resources",F,59868.12
+Marketing,M,68693.75
+Marketing,F,67554.25
+Production,M,62978.91
+Production,F,61860.77
+"Quality Management",M,61990.41
+"Quality Management",F,60696.84
+Research,M,62900.31
+Research,F,61795.86
+Sales,M,72609.27
+Sales,F,71277.31
