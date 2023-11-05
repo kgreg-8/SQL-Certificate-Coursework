@@ -1,7 +1,8 @@
 # SQL-Certificate-Coursework
 
-<b>MySQL for Data Analytics & Business Intelligence</b>
-Topics Learned:
+<h3>MySQL for Data Analytics & Business Intelligence</h3>
+
+<i>Topics Learned:</i>
 * Aggregate functions
 * Joins & Union
 * CASE Statement
