@@ -17,4 +17,4 @@ Topics Learned:
 * Exporting Datasets
 * Combining SQL & Tableau
 
-!(https://github.com/kgreg-8/SQL-Certificate-Coursework/SQL-Certificate-9.26.23.jpeg)!
+![SQL certificate](SQL-Certificate-9.26.23.jpeg)
